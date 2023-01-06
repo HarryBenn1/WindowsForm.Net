@@ -26,7 +26,7 @@ namespace Assignment2
         }
         public string getName()
         {
-            return fileName + ".txt";
+            return fileName + ".rtf";
         }
     }
 }
