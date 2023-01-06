@@ -1,0 +1,15 @@
+C:\Users\harri\Desktop\Assignment2\Assignment2\bin\Debug\Assignment2.exe.config
+C:\Users\harri\Desktop\Assignment2\Assignment2\bin\Debug\Assignment2.exe
+C:\Users\harri\Desktop\Assignment2\Assignment2\bin\Debug\Assignment2.pdb
+C:\Users\harri\Desktop\Assignment2\Assignment2\obj\Debug\Assignment2.csproj.AssemblyReference.cache
+C:\Users\harri\Desktop\Assignment2\Assignment2\obj\Debug\Assignment2.Editor.resources
+C:\Users\harri\Desktop\Assignment2\Assignment2\obj\Debug\Assignment2.Login.resources
+C:\Users\harri\Desktop\Assignment2\Assignment2\obj\Debug\Assignment2.Properties.Resources.resources
+C:\Users\harri\Desktop\Assignment2\Assignment2\obj\Debug\Assignment2.csproj.GenerateResource.cache
+C:\Users\harri\Desktop\Assignment2\Assignment2\obj\Debug\Assignment2.csproj.CoreCompileInputs.cache
+C:\Users\harri\Desktop\Assignment2\Assignment2\obj\Debug\Assignment2.exe
+C:\Users\harri\Desktop\Assignment2\Assignment2\obj\Debug\Assignment2.pdb
+C:\Users\harri\Desktop\Assignment2\Assignment2\obj\Debug\Assignment2.NewUser.resources
+C:\Users\harri\Desktop\Assignment2\Assignment2\obj\Debug\Assignment2.Save.resources
+C:\Users\harri\Desktop\Assignment2\Assignment2\obj\Debug\Assignment2.Open.resources
+C:\Users\harri\Desktop\Assignment2\Assignment2\obj\Debug\Assignment2.About.resources
